@@ -1,9 +1,10 @@
 #include <stdio.h>
-
-
-/* puts will print strings.*/
-/*return (0) will end with value 0.*/
-
+/**
+ * main - 4-put
+ *
+ * Description:
+ * Return:  0 ok
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
