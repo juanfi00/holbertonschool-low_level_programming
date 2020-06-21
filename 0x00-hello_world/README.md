@@ -1,0 +1,1 @@
+bash commands to run C files and compile them.
